@@ -1,0 +1,244 @@
+Question Select the answer that correctly completes the sentence. [Answer choice] is the logical container used to combine and organize Azure resources?
+a resource group
+a management group
+Azure Resource Manager (ARM)
+an Azure region
+
+Question Select the answer that correctly completes the sentence. [Answer choice] are physically separate datacenters within an Azure region?
+Availability zones
+Geographies
+Region pairs
+Resource groups
+
+Question Select the answer that correctly completes the sentence.In a region pair, a region is paired with another region in the same [answer choice]?
+geography
+availability zone 
+datacenter
+resource group
+
+Question What is an Azure Storage account named storage001 an example of?
+a resource
+a resource group
+a resource manager
+a subscription
+
+Question For which resource does Azure generate separate billing reports and invoices by default?
+subscriptions
+accounts
+management groups
+resource groups
+
+Question Which resource can you use to manage access, policies, and compliance across multiple subscriptions?
+management groups
+administrative units
+resource groups
+none
+
+Question Select the answer that correctly completes the sentence. [Answer choice] is the deployment and management service for Azure?
+Azure Resource Manager (ARM)
+Microsoft Entra
+Azure API Management
+Azure Monitor
+
+
+Question What can you use to execute code in a serverless environment?
+Azure Functions
+Azure Container Instances
+Azure Logic Apps
+Azure Virtual Desktop
+
+Question You need to allow resources on two different Azure virtual networks to communicate with each other. What should you configure?
+peering
+a network security group (NSG)
+a point-to-site VPN
+service endpoints
+
+
+Question What can you use to provide Mac and Android users with access to a Windows environment that will run Windows-based applications?
+Azure Virtual Desktop
+Azure Container Instances
+Azure Functions
+Azure Logic Apps
+
+
+Question Which Azure Blob storage tier stores data offline and offers the lowest storage costs and the highest costs to access data?
+Archive
+Cool
+Hot
+none
+
+Question Which storage service offers fully managed file shares in the cloud that are accessible by using Server Message Block (SMB) protocol?
+Azure Files
+Azure Disk Storage
+Azure Queue Storage
+Azure Table storage
+
+Question Which Azure Blob storage service tier has the highest storage costs and the fastest access times for reading and writing data?
+Hot
+Archive
+Cool
+none
+
+Question Which Azure Storage service should you use to store unstructured files, such as images, that will be served on webpages?
+Azure Blob storage
+Azure Disk Storage
+Azure Queue Storage
+Azure Table storage
+
+Question What can you use to allow a user to manage all the resources in a resource group?
+Azure role-based access control (RBAC)
+Azure Key Vault
+resource locks
+resource tags
+
+Question To which object or level is an Azure role-based access control (RBAC) role applied?
+scope
+policy
+resource lock
+resource tag
+
+
+Question What is an advantage of cloud computing compared to on-premises deployments?
+You can scale more quickly.
+You can work from multiple workstations.
+You have full access in case of internet outage.
+You own your CPUs.
+
+Question [Answer choice] refers to upfront costs incurred one time, such as hardware purchases.?
+Capital expenditures
+A consumption-based model
+Elasticity
+Operational expenditures
+
+Question What is high availability in a public cloud environment dependent on?
+the service-level agreement (SLA) that you choose
+capital expenditures
+cloud-based backup retention limits
+the vertical scalability of an app
+
+Question Select the answer that correctly completes the sentence. Increasing compute capacity for an app by adding RAM or CPUs to a virtual machine is called [answer choice].?
+vertical scaling
+disaster recovery
+high availability
+horizontal scaling
+
+
+Question Select the answer that correctly completes the sentence. An example of [answer choice] is automatically scaling an application to ensure that the application has the resources needed to meet customer demands.?
+elasticity
+agility
+geo-distribution
+high availability
+
+Question Select the answer that correctly completes the sentence. In cloud computing, [answer choice] allows you to deploy applications to regional datacenters around the world.?
+geo-location
+disaster recovery
+elasticity
+high availability
+
+Question Select the answer that correctly completes the sentence. Increasing the capacity of an application by adding additional virtual machine is called [answer choice].?
+horizontal scaling
+agility
+high availability
+vertical scaling
+
+Question Which type of cloud service model is typically licensed through a monthly or annual subscription?
+software as a service (SaaS)
+Infrastructure as a service (IaaS)
+platform as a service (PaaS)
+none
+
+Question Which cloud service model is used by Microsoft Office 365?
+software as a service (SaaS)
+infrastructure as a service (IaaS)
+platform as a service (PaaS)
+none
+
+Question Which type of cloud service are virtual networks?
+infrastructure as a service (IaaS)
+platform as a service (PaaS)
+software as a service (SaaS)
+none.
+
+Question You need to associate the costs of resources to different groups within an organization without changing the location of the resources. What should you use?
+resource tags
+administrative units
+resource groups
+subscriptions
+
+Question Your organization plans to deploy several production virtual machines that will have consistent resource usage throughout the year. What can you use to minimize the costs of the virtual machines without reducing the functionality of the virtual machines?
+Azure Reservations
+Azure Monitor alerts
+spending limits
+none
+
+Question What can you use to ensure that new and existing Azure resources stay in compliance with corporate standards?
+Azure Policy
+Azure Advisor
+resource locks
+resource tags
+
+Question You need to ensure that multi-factor authentication (MFA) is enabled on accounts with write permissions in an Azure subscription. What should you implement?
+Azure Policy
+resource locks
+resource tags
+Cloud Adoption Framework
+
+Question Which management layer accepts requests from any Azure tool or API and enables you to create, update, and delete resources in an Azure account?
+Azure Resource Manager (ARM)
+Azure CLI
+Azure management groups
+Azure Sphere
+
+Question What should you use to access Azure Cloud Shell?
+a web browser
+Azure Resource Manager (ARM)
+Microsoft Visual Studio Code
+the command-line on a local computer
+
+Question What can you use to manage servers across third party cloud platforms and on-premises environments?
+Azure Arc
+Azure CLI
+Azure Monitor
+Azure PowerShell
+
+Question What provides recommendations to reduce the cost of Azure resources?
+Azure Advisor
+Azure Dashboard
+Azure Service Health
+Microsoft Defender for Cloud
+
+Question Which Azure service evaluates Azure resources and makes recommendations to help improve reliability, security, performance, and cost reduction?
+Azure Advisor
+Azure Monitor
+Azure Service Health
+Log Analytics
+
+Question You need to be notified when there are new recommendations for reducing Azure costs.Which tool should you use?
+Azure Advisor
+Azure Monitor
+Azure Service Health
+Log Analytics
+
+Question What can you use to automatically detect performance anomalies for web apps?
+Azure Application Insights
+Azure Advisor
+Azure Cognitive Services
+Azure DevOps
+
+Question What can you use to get notification about an outage in a specific Azure region?
+Azure Service Health
+Azure Advisor
+Azure Monitor
+Azure Security Center
+
+Question Which Azure service can generate an alert if virtual machine utilization is over 80% for five minutes?
+Azure Monitor
+Azure Advisor
+Azure Policy
+Azure Service Health
+
+Question What can you apply to an Azure virtual machine to ensure that users cannot change or delete the resource?
+a lock
+a tag
+a user-assigned managed identity
+Conditional Access
