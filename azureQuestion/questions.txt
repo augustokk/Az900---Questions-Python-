@@ -242,3 +242,223 @@ a lock
 a tag
 a user-assigned managed identity
 Conditional Access
+
+
+Question How can you prevent creation of non-compliant resources, without having to manually evaluate each resource? 
+Azure Policy
+Azure Purview
+Azure Resource Monitor
+None
+
+Question What's the best way to prevent inadvertent deletion of a resource? 
+Azure resource locks
+Azure Policy
+Microsoft Purview
+None
+
+Question What service helps you manage your Azure, on-premises, and multicloud environments? 
+Azure Arc
+Azure Policy
+Azure Cloud Manager
+None
+
+Question What two components could you use to implement a “infrastructure as code” deployment? 
+Bicep and ARM Templates
+Azure Policy and Azure Arc
+Azure Monitor and Azure Arc
+None
+
+Question Which is not one of the recommendation categories for Azure Advisor? 
+Capacity
+Reliability
+Cost
+None
+
+Question You receive an email notification that virtual machines (VMs) in an Azure region where you have VMs deployed is experiencing an outage. Which component of Azure Service Health will let you know if your application is impacted? 
+Resource health
+Azure status
+Service health
+None
+
+Question What Azure feature can help stay organized and track usage based on metadata associated with resources? 
+Tags
+Tracers
+None
+Values
+Question What’s the best method to estimate the cost of migrating to the cloud while incurring minimal costs? 
+Use the Total Cost of Ownership calculator to estimate expected costs.
+Migrate a small sample to the cloud and track costs over time.
+None
+Migrate to the cloud, but track usage closely using tags to rapidly understand costs.
+
+Question What is cloud computing? 
+Delivery of computing services over the internet.
+Delivery of storage services over the internet.
+Delivery of websites accessible via the internet.
+None
+
+Question Which cloud model uses some datacenters focused on providing cloud services to anyone that wants them, and some data centers that are focused on a single customer? 
+Hybrid cloud
+Public cloud
+Multi-cloud
+None
+
+Question According to the shared responsibility model, which cloud service type places the most responsibility on the customer? 
+Infrastructure as a Service (IaaS)
+Software as a Service (SaaS)
+Platform as a Service (PaaS)
+None
+
+Question Which types of scaling involves adding or removing resources (such as virtual machines or containers) to meet demand? 
+Horizontal scaling
+Vertical scaling
+None
+Direct scaling
+
+Question What is characterized as the ability of a system to recover from failures and continue to function? 
+Reliability
+Predictability
+None
+Scalability
+
+Question Which cloud service type is most suited to a lift and shift migration from an on-premises datacenter to a cloud deployment? 
+Infrastructure as a Service (IaaS)
+None
+Platform as a Service (PaaS)
+Software as a Service (SaaS)
+
+Question What type of cloud service type would a Finance and Expense tracking solution typically be in? 
+Software as a Service (SaaS)
+Infrastructure as a Service (IaaS)
+None
+Platform as a Service (PaaS)
+
+Question How many resource groups can a resource be in at the same time? 
+One
+Two
+None
+Three
+
+Question What happens to the resources within a resource group when an action or setting at the Resource Group level is applied? 
+The setting is applied to current and future resources.
+Current resources inherit the setting, but future resources don't.
+None
+Future resources inherit the setting, but current ones don't.
+
+Question What Azure feature replicates resources across regions that are at least 300 miles away from each other? 
+Region pairs
+None
+Availability Zones
+Sovereign regions
+
+Question Which Azure Virtual Machine feature staggers updates across VMs based on their update domain and fault domain? 
+Availability sets
+None
+Scale sets
+Update sets
+
+Question Which Azure service allows users to use a cloud hosted version of Windows from any location and connect from most modern browsers? 
+Azure Virtual Desktop
+None
+Azure Virtual Machines
+Azure Container Instances
+
+Question Which tool automatically keeps files between an on-premises Windows server and an Azure cloud environment updated? 
+Azure File Sync
+None
+Azure Storage Explorer
+AzCopy
+
+Question Which storage redundancy option provides the highest degree of durability, with 16 nines of durability? 
+Geo-zone-redundant-storage
+Locally redundant storage
+None
+Zone-redundant storage
+
+Question Which Azure Storage service supports big data analytics, as well as handling text and binary data types? 
+Azure Blobs
+Azure Files
+None
+Azure Disks
+
+Question Microsoft Entra tool can vary the credentials needed to log in based on signals, such as where the user is located? 
+Conditional Access
+None
+Guest access
+Passwordless
+
+Question Which security model assumes the worst-case security scenario, and protects resources accordingly? 
+Zero trust
+None
+Défense-in-depth
+Role-based access control
+
+Question A user is simultaneously assigned multiple roles that use role-based access control. What are their actual permissions? The role permissions are: Role 1 - read || Role 2 - write || Role 3 - read and write. 
+Read and write
+Read only
+Write only
+None
+
+
+Question You plan to build a new solution in Azure that will use platform as a service (PaaS) products.
+What should you use to estimate the monthly costs?
+Azure Pricing calculator
+Azure Advisor
+Azure Cost Management
+Total Cost of Ownership (TOC) Calculator
+
+
+
+
+
+Question What can be applied to a resource to prevent accidental deletion?
+a resource lock
+a resource tag
+a policy
+an Azure Reservation
+
+Question You need to recommend a solution for Azure virtual machine deployments. The solution must enforce company standards on the virtual machines.
+What should you include in the recommendation?
+Azure Policy
+Microsoft Intune compliance policy
+Azure Cost Management
+Azure Lock
+
+Question What can you use to restrict the deployment of a virtual machine to a specific location?
+Azure Policy
+Microsoft Defender for Cloud
+resource groups
+resource locks
+
+Question What can you use to define the resources you want to provision in a declarative JSON format?
+Azure Resource Manager (ARM) templates
+Azure CLI
+Azure PowerShell
+Azure Repos
+
+Question What should you use to access Azure Cloud Shell?
+a web browser
+Azure Resource Manager (ARM)
+Microsoft Visual Studio Code
+the command-line on a local computer
+
+Question You need to create a custom solution that uses thresholds to trigger autoscaling functionality to scale an app up or down to meet user demand.
+What should you include in the solution?
+Azure Monitor
+Application insights
+Azure Advisor
+Azure Service Health
+
+Question What are cloud-based backup services, data replication, and geo-distribution features of?
+a disaster recovery plan
+a cost reduction plan
+a hybrid cloud deployment
+an elastic application configuration
+
+
+Question What is high availability in a public cloud environment dependent on?
+the service-level agreement (SLA) that you choose
+capital expenditures
+cloud-based backup retention limits
+the vertical scalability of an app
+
